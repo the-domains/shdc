@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[shdc]]></title>
+        <description><![CDATA[shdc]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 06:10:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Exploring Boise]]></title>
+            <description><![CDATA[<article><h1>Exploring Boise</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01fa1f18-e163-40e2-8f0a-45f79d76f5ee.png"></article>]]></description>
+            <link>undefinedexploring-boise/index.html</link>
+            <guid isPermaLink="false">138fe187-fab0-4fd4-aed7-e8aafe36a8bd</guid>
+            <pubDate>Sat, 16 Apr 2016 06:10:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
