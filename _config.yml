@@ -1,0 +1,14 @@
+layout_spectrum: 0.2894737
+color:
+  saturation: 0.2149117
+  lightness: 0.7366029
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#D6D6D6'
+    - '#676767'
+    - '#B2B2B2'
+  rhythmicContrast: 0.8958961
+typography_spectrum: 0.6898496
+name: shdc
